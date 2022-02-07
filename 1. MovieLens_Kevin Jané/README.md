@@ -8,7 +8,7 @@ With the 10M dataset, our goal is to accomplish a similar algorithm with R, to c
 
 ## Important files in this repository
 1. `MovieLens_Capstone Project_Kevin Jané.R` is the Rscript where all important linecodes are stored.
-2. `MovieLens_Capstone-Project_Kevin-Jané.Rmd` is an R-markdown file that generates a final report.
+2. `MovieLens_Capstone-Project_Kevin-Jané.Rmd` is a R-markdown file that generates a final report.
 3. `MovieLens_Capstone Project_Kevin Jané.pdf` is the final report generated from the Rmd file for this project.
 4. `Rendered_Plot_2.4.png` is the plot that didn't render in the .pdf file.
 
